@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srosopa
-- 👀 I’m interested in recruiting developers
-- 🌱 I’m currently learning to recruit developers
+- 👀 I’m interested in recruiting super talents
+- 🌱 I’m currently learning to recruit highly skillsed developers
 - 💞️ I’m looking to collaborate on recruiting developers
 - 📫 How to reach me srosopa@webcreek.com
 
